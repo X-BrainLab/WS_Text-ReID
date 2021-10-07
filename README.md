@@ -1,4 +1,6 @@
-# WS_Text-ReID# [Weakly Supervised Text-based Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Weakly_Supervised_Text-Based_Person_Re-Identification_ICCV_2021_paper.pdf) (ICCV 2021)
+#WS_Text-ReID# 
+
+[Weakly Supervised Text-based Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Weakly_Supervised_Text-Based_Person_Re-Identification_ICCV_2021_paper.pdf) (ICCV 2021)
 
 If you find this code useful in your research, please consider citing:
 ```
