@@ -4,10 +4,10 @@ Official code for ICCV 2021 paper [Weakly Supervised Text-based Person Re-Identi
 
 If you find this code useful in your research, please consider citing:
 ```
-@inproceedings{zhao2021wstextreid,
-  title={Weakly Supervised Text-based Person Re-Identification},
-  author={Shizhen, Zhao and Changxin, Gao and Yuanjie, Shao and Weishi, Zheng and Nong, Sang},
-  booktitle={IEEE International Conference on Computer Vision (ICCV)},
-  year={2021}
+@InProceedings{Zhao_2021_ICCV,
+    author    = {Zhao, Shizhen and Gao, Changxin and Shao, Yuanjie and Zheng, Wei-Shi and Sang, Nong},
+    title     = {Weakly Supervised Text-Based Person Re-Identification},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    year      = {2021},
 }
 ```
