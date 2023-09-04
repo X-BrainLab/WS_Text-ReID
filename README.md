@@ -2,7 +2,7 @@
 
 **Note:** We have open-sourced the trained model and the code necessary to the inference part, based on which you can easily reproduce the performance reported in the paper under a weakly supervised setting.
 
-## Retrival Results on the CUHK-PEDES dataset 
+## Retrieval Results on the CUHK-PEDES dataset 
 
 ![Quantitative_results_1](./images/Quantitative_result1.png)
 
